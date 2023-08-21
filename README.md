@@ -1,6 +1,5 @@
 # Xylophone Flutter App
 
-![Xylophone Flutter App](screenshot.png)
 
 The Xylophone Flutter App is a simple and fun mobile application built using the Flutter framework. It simulates a xylophone musical instrument, allowing users to play different musical notes by tapping on colorful bars displayed on the screen.
 
